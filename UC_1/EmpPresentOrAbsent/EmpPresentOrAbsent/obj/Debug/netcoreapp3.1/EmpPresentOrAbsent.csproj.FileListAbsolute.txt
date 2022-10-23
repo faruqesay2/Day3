@@ -1,0 +1,5 @@
+C:\Users\naruto\Desktop\Bridgzlabs\Day3\UC_1\EmpPresentOrAbsent\EmpPresentOrAbsent\obj\Debug\netcoreapp3.1\EmpPresentOrAbsent.csproj.AssemblyReference.cache
+C:\Users\naruto\Desktop\Bridgzlabs\Day3\UC_1\EmpPresentOrAbsent\EmpPresentOrAbsent\obj\Debug\netcoreapp3.1\EmpPresentOrAbsent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naruto\Desktop\Bridgzlabs\Day3\UC_1\EmpPresentOrAbsent\EmpPresentOrAbsent\obj\Debug\netcoreapp3.1\EmpPresentOrAbsent.AssemblyInfoInputs.cache
+C:\Users\naruto\Desktop\Bridgzlabs\Day3\UC_1\EmpPresentOrAbsent\EmpPresentOrAbsent\obj\Debug\netcoreapp3.1\EmpPresentOrAbsent.AssemblyInfo.cs
+C:\Users\naruto\Desktop\Bridgzlabs\Day3\UC_1\EmpPresentOrAbsent\EmpPresentOrAbsent\obj\Debug\netcoreapp3.1\EmpPresentOrAbsent.csproj.CoreCompileInputs.cache
